@@ -16,6 +16,8 @@ DirPath/SmartFlaskAPP>python run.py
 ## Unit Testing and Code Coverage
 Use pytest to execute unit-tests
 pytest --cov=main --junitxml=./xmlReport/output.xml
+
+metafile
 python -m coverage xml
 
 ### Notes:
